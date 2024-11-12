@@ -1,0 +1,20 @@
+---
+title: "Final Project"
+author: "Brooke Bauer and Lauren Eckerle"
+format: html
+editor: visual
+---
+
+**Libraries:**
+
+```{r}
+library(readr)
+
+```
+
+**Get Data:**
+
+```{r}
+Gym_Member_Data <- read_csv("gym_members_exercise_tracking.csv")
+
+```
